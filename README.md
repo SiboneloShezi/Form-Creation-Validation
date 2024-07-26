@@ -1,0 +1,1 @@
+you will develop a user registration form with validation and fetch user data from a public API. This project will enhance your understanding of form validation, DOM manipulation, and asynchronous JavaScript.
